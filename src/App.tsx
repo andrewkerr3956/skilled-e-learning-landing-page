@@ -6,7 +6,7 @@ import React from 'react';
 
 const App = () => {
   return (
-    <div className="relative mx-auto max-w-[1440px] overflow-hidden">
+    <div className="relative mx-auto max-w-[1800px] overflow-hidden">
       {Header}
       <main>
         <section id="hero-section" className="mt-[38px] md:mt-[125px] pb-[66px] md:pb-[226px]">
