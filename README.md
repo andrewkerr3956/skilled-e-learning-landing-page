@@ -30,7 +30,7 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 - Flexbox
 - CSS Grid
 - [TailwindCSS](https://tailwindcss.com) - CSS library
-- [Typescript]{https://www.typescriptlang.org/} - Language (not necessary but I'm trying to use typescript more).
+- [Typescript](https://www.typescriptlang.org/) - Language (not necessary but I'm trying to use typescript more).
 - [React](https://reactjs.org/) - JS library
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
