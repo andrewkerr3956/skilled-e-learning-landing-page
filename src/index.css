@@ -120,6 +120,7 @@ footer {
 @media screen and (max-width: 767.5px) {
   figure {
     max-width: 450px;
+    width: auto;
   }
 
   figure.popular-card {
@@ -137,10 +138,7 @@ footer {
   .popular-card h4 {
     font-size: 24px;
   }
-
-  .grid {
-    max-width: 450px;
-  }
+  
 }
 
 @media screen and (max-width: 500px) {
