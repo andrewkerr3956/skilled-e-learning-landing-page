@@ -37,8 +37,7 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 
 ### What I learned
 
-I wanted to practice TailwindCSS because Bootstrap can be very limited sometimes.
-This project mainly helped me practice and learn more about TailwindCSS.
+I wanted to practice TailwindCSS because Bootstrap can be very limited sometimes. This project mainly helped me practice and learn more about TailwindCSS.
 
 ### Continued development
 
