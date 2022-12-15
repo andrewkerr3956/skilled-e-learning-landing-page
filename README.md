@@ -15,7 +15,7 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
