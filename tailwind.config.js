@@ -22,8 +22,9 @@ module.exports = {
       center: true,
       padding: {
         DEFAULT: '16px',
-        lg: '135px',
-        md: '45px',
+        xl: '135px',
+        lg: '90px',
+        md: '40px',
       }
     },
     borderRadius: {
