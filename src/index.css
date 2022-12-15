@@ -65,6 +65,7 @@ p {
 figure {
   box-shadow: 0px 25px 50px 0px #06168D0B;
   height: auto;
+  width: 350px;
 }
 
 a:hover,

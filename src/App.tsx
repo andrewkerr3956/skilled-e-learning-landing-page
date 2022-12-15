@@ -15,7 +15,7 @@ const App = () => {
               <p className="pg-md w-full lg:w-[445px] my-[25px]">Our modern courses across a range of in-demand skills will give you the knowledge you need to live the life you want.</p>
               <button type="button" className="p-btn bg-orange-gradient text-white rounded-btn">Get Started</button>
             </p>
-            <picture className="relative h-auto w-11/12 md:w-[640px] lg:w-[815px] xl:w-[990px] md:absolute md:-top-8 lg:-top-28 xl:-top-44 md:-right-[250px] lg:-right-[360px]">
+            <picture className="relative h-auto w-11/12 md:w-[640px] lg:w-[815px] xl:w-[990px] md:absolute md:-top-8 lg:-top-28 xl:-top-44 md:-right-[250px] lg:-right-[360px] xl:-right-[300px]">
               <source media="(min-width:1024px)" srcSet="/assets/image-hero-desktop.png" />
               <source media="(min-width:768px)" srcSet="/assets/image-hero-tablet.png" />
               <img src="/assets/image-hero-mobile.png" alt="Woman drinking coffee in front of laptop, working on courses. Course statistics are displayed on the side: 'Course hours: 1,451', 'Members joined: 29,000+'." />
