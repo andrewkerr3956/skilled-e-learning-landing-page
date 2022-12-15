@@ -46,4 +46,4 @@ Streamline how many classes are being used from TailwindCSS. If I kept adding mo
 
 ### Useful resources
 
-- [TailwindCSS Documentation](https://www.example.com) - Helped me since I had trouble remembering some classes.
+- [TailwindCSS Documentation](https://tailwindcss.com/docs/installation) - Helped me since I had trouble remembering some classes.
